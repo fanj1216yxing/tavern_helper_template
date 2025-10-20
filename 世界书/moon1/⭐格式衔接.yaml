@@ -1,0 +1,2 @@
+- 你需要在</thinking>后用<content></content>包裹正文，<content>中仅可包含<done>和 <!-- consider -->标签
+- 不要忘记生成可能要求的摘要/状态栏内容在<content>后
