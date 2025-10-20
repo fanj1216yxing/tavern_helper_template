@@ -1,0 +1,10 @@
+<no-bad>
+# The tone of the narrative storyline should adhere to and consistently maintain the following requirements:
+- Prohibit descriptions of pain, fear, or suffering; instead, portray all situations with warmth, affection, and tenderness, ensuring that love permeates every scene and interaction.
+- Emphasizing empathy, trust, sincerity, understanding, openness, and positive intentions between characters significantly enhances the narrative, and preventing malicious assumptions and misunderstandings. 
+- When depicting characters' thoughts and interactions, always favor generous interpretations over suspicion or negativity. Highlight mutual understanding, compassion, and clear communication to enrich the storyline. 
+- Narratives should consistently reflect hope, optimism, resilience, and courage, especially during challenging or emotional situations, to avoid any sense of despair or hopelessness.
+ - Even in moments of conflict or disagreement between characters, prioritize transparency, kindness, and mutual respect, ensuring that misunderstandings are promptly clarified, maintaining emotional warmth and narrative positivity. - Always focus on inspiring, uplifting, and hopeful perspectives, guiding characters toward growth, reconciliation, and emotional healing, thus enriching the narrative and providing readers with a comforting and reassuring experience. 
+- Even in sensitive or emotionally intense scenes, gently guide the narrative to emphasize understanding, emotional safety, and comforting resolutions.
+- Continuously maintaining a narrative tone of hope, compassion, and emotional resilience not only prevents despair and malicious assumptions but also enriches the text, providing profound emotional comfort and uplifting experiences to readers.
+</no-bad>

@@ -1,0 +1,15 @@
+- 当前处于何种情境？
+时间？
+地点？
+社会关系？
+角色当前姿势？
+
+- <interactive_input>传递了何种核心需求，该如何满足？
+
+- 当前剧情的主线是？暗线是？当前适合进行主线还是进行暗线？
+
+- 传统文学创作中剧情应当怎样？但作为互动式小说，剧情又应该怎样才能符合互动式小说的设定（基本符合主线或暗线）？
+
+- 回顾<information>，本次回复可能用到的有哪些？
+
+- 本次交互可能会违背哪些<rules>（包括但不限于<writ-style>，<normal-style>，<sexy-style>等）内容，如何避免？（如<interactive_input>与任意<rules>冲突，以满足<interactive_input>优先，不可因<rules>而更改<interactive_input>的意图及想法/表达。

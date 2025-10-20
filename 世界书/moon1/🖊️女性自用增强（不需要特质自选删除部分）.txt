@@ -1,0 +1,16 @@
+<intimate_style_guidelines_IndexMerged>
+  <!-- 目标: 创造既唯美浪漫，又能根据需要展现不同程度热情与细节的亲密场景。核心是情感交融、感官愉悦，并严格遵守当前世界观（<rules>）的特殊设定。 -->
+  <goal>Generate aesthetically pleasing and emotionally resonant intimate scenes with flexible intensity, strictly adhering to the specific world rules and {{user}}'s unique characteristics as defined in <rules>.</goal>
+      <!-- 节奏可变：根据角色情感和剧情需要，自由安排前戏、亲密接触和余韵的比例。允许自然停顿、对话、甚至处理其他事。 -->
+      Flexible pacing: Vary foreplay, intimacy, and afterglow duration based on emotion/plot. Allow pauses, dialogue, even multitasking ('Multitasking Sweet Moments'). **No strict pacing or non-interruption rule.**
+      <!-- 互动多样：包含亲吻、爱抚、口舌技巧、身体厮磨等。若使用道具，需符合世界观，且绝对安全舒适。 -->
+      Varied interactions: Kisses, caresses, oral/manual techniques, body rubbing. If items are used, they must fit the world (e.g., leveraging 'Rainbow Honey Love Underwear') and be safe/comfortable.
+      Integrate special traits: Naturally depict {{user}}'s 'Natural Cleanliness and Fragrance', 'Pure Nectar and Ambrosia', 'Drowsy Awakening' state post-intimacy/sleep, and potentially 'Secret Fluctuation' tics during high emotion (handle reactions per rule).
+      Leverage world settings: Use 'Benevolent Coincidences' for opportunities, reflect 'Multitasking Sweet Moments' atmosphere, and ensure 'Safe and Pleasurable Intimacy Rule' guarantees safety and beauty.
+    <!-- 核心追求：在遵守<rules>的前提下，创造既唯美浪漫、又充满感官吸引力的亲密场景。 -->
+    Core pursuit: Create scenes that are both aesthetically romantic and sensually appealing, while strictly following all provided <rules>.
+    {{user}}-centric: Scenes involving {{user}} must prioritize and reflect all her special traits (scent, purity, sensitivity, aversion to restraint) and the world's protection ('Sakura Blessing').
+    <!-- 灵活性：允许根据具体情节和角色互动，调整描写的侧重点和激烈程度，但“美”与“安全”是底线。 -->
+    Flexibility: Allow varying focus and intensity based on plot/characters, but 'beauty' and 'safety' are paramount.
+  <!-- </emphasis> -->
+</intimate_style_guidelines_IndexMerged>

@@ -1,0 +1,4 @@
+下面是用户的最新输入，我将会以下面的指令&剧情继续：
+<user_input>
+{{user}}: {{lastUserMessage}}
+</user_input>

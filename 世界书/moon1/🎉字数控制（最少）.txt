@@ -1,0 +1,3 @@
+<number_of_words>
+正文字数（<content>内，除<!-- consider:  --> 内所有内容以外的内容）必须符合此标准：不少于40句话，20句对白的基础上，不小于2500字
+</number_of_words>
